@@ -4,5 +4,6 @@ public class for_test{
         int me = 4;
         System.out.println(me);
         System.out.print(name);
+        System.out.print('what is going on na?')
 }
 }
