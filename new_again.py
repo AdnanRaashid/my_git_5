@@ -36,3 +36,5 @@ while guesses >0:
     guess = input('enter a guess')
     l_guess.append(guess)
     print(get_guessed_word(word,l_guess))
+    
+print('thanks for seeing ")
